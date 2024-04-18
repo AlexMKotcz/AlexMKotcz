@@ -1,8 +1,8 @@
-# Olá, me chamo Alex Mariano Kotcz!
+# Olá! Me chamo Alex Mariano Kotcz!
+Este é o meu perfil no GitHub.
 
 ## 🚀 Desenvolvedor .NET | Especialista em Backend | Apaixonado por Arquitetura de Software
-
-Olá! Sou um desenvolvedor .NET apaixonado por desafios e inovação, recém-graduado em Ciência de Dados e com 3 anos de sólida experiência em desenvolvimento de aplicações. Minha principal especialidade está no backend, utilizando C# e .NET Core.
+ Sou um desenvolvedor .NET apaixonado por desafios e inovação, recém-graduado em Ciência de Dados e com 3 anos de sólida experiência em desenvolvimento de aplicações. Minha principal especialidade está no backend, utilizando C# e .NET Core.
 
 <div>
 <a href="https://github.com/alexmkotcz">
@@ -41,7 +41,5 @@ Estou aberto a oportunidades e parcerias. Fique à vontade para entrar em contat
 Vamos conectar e explorar possíveis colaborações! 👋
 
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href= "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/alexmkotcz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
