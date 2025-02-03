@@ -2,7 +2,7 @@
 Este é o meu perfil no GitHub.
 
 ## 🚀 Desenvolvedor .NET | Especialista em Backend | Apaixonado por Arquitetura de Software
- Sou um desenvolvedor .NET apaixonado por desafios e inovação, graduado em Ciência de Dados e com 3,5 anos de sólida experiência em desenvolvimento de aplicações. Minha principal especialidade está no backend, utilizando C# e .NET.
+ Sou um desenvolvedor .NET apaixonado por desafios e inovação, graduado em Ciência de Dados e com 4 anos de sólida experiência em desenvolvimento de aplicações. Minha principal especialidade está no backend, utilizando C# e .NET.
 
 <div>
 <a href="https://github.com/alexmkotcz">
